@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 4\\Lab4\\Lab4_Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCF3FC-E6E6-476C-A2AF-1FF95419316E}|Lab4_Task1\\Lab4_Task1.fsproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 4\\lab4\\lab4_task1\\lab4_task1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{1BBCF3FC-E6E6-476C-A2AF-1FF95419316E}|Lab4_Task1\\Lab4_Task1.fsproj|solutionrelative:lab4_task1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 4\\Lab4\\Lab4_Task1\\Lab4_Task1\\Program.fs",
+              "RelativeDocumentMoniker": "Lab4_Task1\\Program.fs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 4\\Lab4\\Lab4_Task1\\Lab4_Task1\\Program.fs",
+              "RelativeToolTip": "Lab4_Task1\\Program.fs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T15:56:10.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
