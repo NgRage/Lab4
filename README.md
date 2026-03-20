@@ -16,7 +16,8 @@
 5) Показать финальный результат
 
 ### Тестирование
-<img width="387" height="287" alt="Lab4_Task1_SC1" src="https://github.com/user-attachments/assets/f76084dc-3413-4819-89fc-eb32079b691a" />
+<img width="351" height="237" alt="image" src="https://github.com/user-attachments/assets/a95f2e4e-09a7-49e2-9442-8bb817e0085f" />
+
 
 
 
@@ -34,6 +35,7 @@
 3) При помощи функции на основе fold посчитать сумму всех четных значений, являющихся листьями
 4) Вывести результат суммы
 ### Тестирование
-<img width="339" height="140" alt="Lab4_Task2_SC1" src="https://github.com/user-attachments/assets/ecba476e-9eac-46e8-a9f5-5a768a57bb70" />
+<img width="325" height="156" alt="image" src="https://github.com/user-attachments/assets/7c5074f7-dbcf-4c55-9551-472310dc45b7" />
+
 
 
